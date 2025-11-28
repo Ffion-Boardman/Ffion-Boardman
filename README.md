@@ -2,5 +2,17 @@
 
 ---  
 
-Check out
-[my portfolio!](https://www.ffionboardman.com/)
+
+<p align="center">
+Software & Languages:
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,cpp,unity,unreal,rider,visualstudio,obsidian" />
+  </a>
+</p>
+
+<p align="center">
+Portfolio: www.ffionboardman.com
+</p>
