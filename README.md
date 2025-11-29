@@ -2,10 +2,7 @@
 
 ---  
 
-
-<p align="center">
-Software & Languages:
-</p>
+<h3 align="center">Software & Languages</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -13,6 +10,4 @@ Software & Languages:
   </a>
 </p>
 
-<p align="center">
-Portfolio: www.ffionboardman.com
-</p>
+<h3 align="center">Portfolio<br>www.ffionboardman.com</h3>
