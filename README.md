@@ -9,7 +9,7 @@
       <img src="https://img.shields.io/badge/ffionboardmancv@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="My Email">
     </a>
     <a href="https://www.ffionboardman.com/">
-      <img src="https://img.shields.io/badge/My_Portfolio-d23782?style=for-the-badge" target="_blank" alt="My Portfolio">
+      <img src="https://img.shields.io/badge/My_Portfolio-hotpink?style=for-the-badge" target="_blank" alt="My Portfolio">
     </a>
     <a href="https://www.linkedin.com/in/ffion-boardman-a59381251/">
       <img src="https://img.shields.io/badge/My_LinkedIn-0e76a8?style=for-the-badge" target="_blank" alt="LinkedIn">
@@ -37,10 +37,20 @@
   </a>
 </p>
 
-<!--
+<!-- MARQUEE VERSION
 <p align="center">
   <img src="https://icon-marquee.giann.dev/v1/marquee?i=cpp,cs,css,html,md,unity,unreal,jenkins,jira,rider,visualstudio,vscode,ai,ps,ae" alt="Software & Languages" />
 </p>
 -->
 
+<!-- PORTFOLIO: SIMPLE VERSION
 <h3 align="center">Portfolio<br><a href="https://www.ffionboardman.com/">ffionboardman.com</a></h3>
+-->
+
+<!-- PORTFOLIO: BUTTON VERSION -->
+<h3 align="center">Portfolio</h3>
+<p align="center">
+  <a href="https://www.ffionboardman.com/">
+    <img src="https://img.shields.io/badge/ffionboardman.com-hotpink?style=for-the-badge" target="_blank" alt="ffionboardman.com">
+  </a>
+</p>
