@@ -37,14 +37,16 @@
   </a>
 </p>
 
-<!-- MARQUEE VERSION
+<!-- For Future
+| Languages | Engines | IDEs | Tools |
+|:---------:|:-------:|:----:|:-----:|
+| [![Languages](https://skillicons.dev/icons?i=cpp,cs,css,html,md&theme=dark)](https://skillicons.dev) | [![Engines](https://skillicons.dev/icons?i=unity,unreal&theme=dark)](https://skillicons.dev) | [![IDEs](https://skillicons.dev/icons?i=rider,visualstudio,vscode&theme=dark)](https://skillicons.dev) | [![Tools](https://skillicons.dev/icons?i=jenkins,gitlab,grafana,obsidian,ps,ai,ae,pr&theme=dark)](https://skillicons.dev)
+-->
+
+<!-- MARQUEE VERSION 
 <p align="center">
   <img src="https://icon-marquee.giann.dev/v1/marquee?i=cpp,cs,css,html,md,unity,unreal,jenkins,jira,rider,visualstudio,vscode,ai,ps,ae" alt="Software & Languages" />
 </p>
--->
-
-<!-- PORTFOLIO: SIMPLE VERSION
-<h3 align="center">Portfolio<br><a href="https://www.ffionboardman.com/">ffionboardman.com</a></h3>
 -->
 
 <!-- PORTFOLIO: BUTTON VERSION -->
